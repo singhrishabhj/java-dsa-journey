@@ -18,7 +18,7 @@ Add two numbers A and B and display the result.
 
 ## Flowchart Diagram
 
-![Add Two Numbers Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-add-two-numbers.png)
+![Add Two Numbers Flowchart](images/teaflowchart.png)
 
 *Reference: Basic flowchart showing input, process, and output.*
 
