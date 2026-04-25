@@ -30,7 +30,7 @@ A number is:
 
 ## Flowchart Diagram
 
-![Odd Even Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-even-odd.png)
+![Odd Even Flowchart](images/oddEvenFlowchart.png)
 
 *Reference: Flowchart using decision (diamond) to check divisibility.*
 

@@ -24,7 +24,7 @@ SI = (P × R × T) / 100
 
 ## Flowchart Diagram
 
-![Simple Interest Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-simple-interest.png)
+![Simple Interest Flowchart](images/SIFlowchart.png)
 
 *Reference: Flowchart for calculating simple interest using input, process, and output.*
 

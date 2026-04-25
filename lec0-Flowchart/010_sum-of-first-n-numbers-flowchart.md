@@ -23,7 +23,7 @@ Find the sum of first N natural numbers.
 
 ## Flowchart Diagram
 
-![Sum of N Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-sum-natural-numbers.png)
+![Sum of N Flowchart](images/sumoffirstnFlowchart.png)
 
 *Reference: Flowchart using loop to calculate sum.*
 

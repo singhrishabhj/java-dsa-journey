@@ -25,7 +25,7 @@ Print numbers from 1 to 5.
 
 ## Flowchart Diagram
 
-![Loop Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-for-loop.png)
+![Loop Flowchart](images/loop.png)
 
 *Reference: Flowchart showing repetition using a loop.*
 

@@ -25,7 +25,7 @@ Make a cup of tea step by step.
 
 ## Flowchart Diagram
 
-![Tea Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-tea-making.png)
+![Tea Flowchart](images/teaflowchart.png)
 
 *Reference: Basic flowchart representing tea preparation steps.*
 

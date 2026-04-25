@@ -20,7 +20,7 @@ Find the maximum among three numbers A, B, and C.
 
 ## Flowchart Diagram
 
-![Max of Three Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-largest-number.png)
+![Max of Three Flowchart](images/maxofthree_flowchart.png)
 
 *Reference: Standard flowchart to find the largest of three numbers.*
 

@@ -21,7 +21,7 @@ Print the table of 7.
 
 ## Flowchart Diagram
 
-![Table of 7 Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-for-loop.png)
+![Table of 7 Flowchart](images/tableof7.png)
 
 *Reference: Flowchart using loop to repeat steps.*
 

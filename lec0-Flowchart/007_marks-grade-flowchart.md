@@ -42,7 +42,7 @@ Assign grade based on marks.
 
 ## Flowchart Diagram
 
-![Marks Grade Flowchart](https://www.programiz.com/sites/tutorial2program/files/flowchart-if-else-if.png)
+![Marks Grade Flowchart](images/MArks&GradeFlowchart.png)
 
 *Reference: Flowchart representing multiple conditions using if-else-if logic.*
 
