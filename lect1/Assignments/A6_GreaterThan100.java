@@ -1,4 +1,4 @@
-public class A5_GreaterThan100 {
+public class A6_GreaterThan100 {
     public static void main(String[] args) {
         
         int num = 900;
